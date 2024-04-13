@@ -6,11 +6,9 @@ Documentação do desafio: [Link](https://microsoftlearning.github.io/mslearn-ai
 2. Selecionar criar um novo recurso.
 3. Na parte de buscas, procurar por "Azure Machine Learning" e selecionar "criar".
 4. Configurar Workspace do ML(Machine Learning) criando um grupo de recursos e definindo um nome ao experimento.
-
-   ![1713007274978](image/MachineLearning/1713007274978.png)
 5. Ao finalizar as configurações, selecionar" revisar +  criar" e verificar se esta tudo correto.
 6. Aguardar a implantação.
-7. Depois de finalizada selecinoar "Iniciar o estúdio".![1713008028074](image/MachineLearning/1713008028074.png)
+7. Depois de finalizada selecionar "Iniciar o estúdio".
 8. Dentro do [estúdio](https://ml.azure.com/ "Estúdio da Azure"), selecionar "ML Automatizado" na barra lateral esquerda.
 9. Em método de treinamento predefinido esta para treinar automaticamente.![1713008584050](image/MachineLearning/1713008584050.png)
 10. Em configurações básicas, preencher o formulario com nome desejado.![1713008678863](image/MachineLearning/1713008678863.png)
@@ -30,10 +28,9 @@ Documentação do desafio: [Link](https://microsoftlearning.github.io/mslearn-ai
 24. Uma ver terminado selecionar o melhor modelo.![1713012968513](image/MachineLearning/1713012968513.png)
 25. Depois de selecionar "metricas".![1713013084841](image/MachineLearning/1713013084841.png)
 26. Marcar somente "residuals" e "predicted_true".![1713016278598](image/MachineLearning/1713016278598.png)
-27. 
-28. Realizar as configuracoes abaixo e selecionar implantar.![1713013152759](image/MachineLearning/1713013152759.png)
-29. Selecionar "ponto de extremidade" na aba lateral depois que o deploy/impletação seja finalizada com exito.![1713016988319](image/MachineLearning/1713016988319.png)
-30. Usar o codigo presente na [documentação](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html) caso o codigo de prova não esteja disponivel.
+27. Realizar as configuracoes abaixo e selecionar implantar.![1713013152759](image/MachineLearning/1713013152759.png)
+28. Selecionar "ponto de extremidade" na aba lateral depois que o deploy/impletação seja finalizada com exito.![1713016988319](image/MachineLearning/1713016988319.png)
+29. Usar o codigo presente na [documentação](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html) caso o codigo de prova não esteja disponivel.
 
 ```
 { 
